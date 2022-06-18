@@ -1,2 +1,2 @@
 # 30_lambda
-lambda and lambda reduce
+lambda,lambda reduce and global and local variable
